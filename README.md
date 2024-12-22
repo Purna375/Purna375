@@ -53,7 +53,9 @@ Here are some projects I’ve been working on:
 
 - 🔗 **[Threadeo 2.0](#)**: A Threads clone with real-time chat and AI capabilities.  
 - 📚 **[AI LearnLabs](https://github.com/Purna375/AI-LearnLabs)**: Simplifying education by generating personalized AI-driven courses.  
-- 🤖 **[Bujji 2.0](#)**: Your virtual assistant powered by AI intelligence.  
+- 🤖 **[Bujji 2.0](#)**: Your virtual assistant powered by AI intelligence.
+- 🍽️ **[Sentimnt Analysis](https://github.com/Purna375/Sentiment-Analysis)**: Analyzing restaurant reviews to understand customer sentiment and improve experiences.
+- 🌏 **[Solar Planet View](https://github.com/Purna375/Solar-Planet-view)**: A Visual Representation of the Solar System: Planets Orbiting with Connecting Lines.
 
 💡 Check out my repositories for more exciting projects!  
 
