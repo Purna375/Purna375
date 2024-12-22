@@ -52,7 +52,7 @@ I’m **Purna Chandrashekar**, a **Full-Stack Engineer** and **AI Developer** pa
 Here are some projects I’ve been working on:  
 
 - 🔗 **[Threadeo 2.0](#)**: A Threads clone with real-time chat and AI capabilities.  
-- 📚 **[AI Course Generator](#)**: Simplifying education by generating personalized AI-driven courses.  
+- 📚 **[AI LearnLabs](https://github.com/Purna375/AI-LearnLabs)**: Simplifying education by generating personalized AI-driven courses.  
 - 🤖 **[Bujji 2.0](#)**: Your virtual assistant powered by AI intelligence.  
 
 💡 Check out my repositories for more exciting projects!  
