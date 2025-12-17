@@ -1,96 +1,176 @@
-# 👋 Hello World, I'm Purna!  
+<!-- ===================== SYSTEM BOOT ===================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Engineer+%26+AI+Developer;Building+SaaS+Apps+With+Passion;Anime+Lover+%7C+Story+Writer;Let's+Create+Something+Amazing!" alt="Typing SVG" />
-</div>  
+
+# 🧠 GIDUTHURI PURNA CHANDRASHEKAR  
+### Full Stack Developer × AI Engineer  
+
+<sub>Building systems where software meets intelligence.</sub>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Engineering;AI+Systems+%26+Applied+ML;Product-minded+Builder;From+APIs+to+Algorithms;Code+that+thinks" />
+
+</div>
 
 ---
 
-## 🚀 About Me  
-I’m **Purna Chandrashekar**, a **Full-Stack Engineer** and **AI Developer** passionate about building scalable solutions and exploring cutting-edge technology. When I’m not coding, I’m writing stories, composing songs, or diving into my favorite anime series.  
+## 🚀 Mission Control
+
+I design and build **end-to-end systems** — from polished UI layers to secure backends and AI-powered decision engines.
+
+I don’t chase frameworks.  
+I build **products that work**, **scale**, and **reason**.
 
 ---
 
-### 🌱 Currently...  
-- 🛠️ Building SaaS applications and AI-powered tools.  
-- 📚 Expanding my knowledge in **machine learning** and **app development**.  
-- 💡 Exploring new technologies and frameworks like **Flutter** and **Next.js**.  
-- 🤝 Open to **freelancing**, **collaborations**, and **mentorship** opportunities.  
+## 🧩 Tech Stack Matrix
+
+### 🧪 Languages
+`Python` · `Java` · `JavaScript` · `TypeScript` · `C` · `C++`
+
+### 🖥️ Frontend
+`React.js` · `Next.js` · `HTML5` · `CSS3` · `Tailwind CSS`
+
+### 🎨 UI Systems
+`shadCN UI` · `Material UI` · `Origin UI` · `Aceternity UI`
+
+### ⚙️ Backend
+`Node.js` · `REST APIs` · `GraphQL` · `Auth & Security Workflows`  
+`Java Spring Boot` · `FastAPI`
+
+### 🗄️ Databases
+`PostgreSQL` · `MySQL` · `MongoDB`
+
+### 🔌 Integrations
+`Webhooks` · `Third-party APIs`
+
+### 🛠️ Tools
+`Git` · `GitHub` · `VS Code` · `Postman` · `Swagger` · `Figma`
 
 ---
 
-## 🛠️ Tech Stack  
-<div align="center">  
+## 🧠 AI / ML Arsenal
 
-### **Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
+### 🤖 Machine Learning
+Supervised & Unsupervised Learning  
+Feature Engineering · Model Evaluation
 
-### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🧬 Deep Learning
+ANN · CNN · RNN (Foundations)  
+`TensorFlow` · `Keras`
 
-### **Programming**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+### 🗣️ NLP
+Text Preprocessing · Embeddings  
+Text Classification · Semantic Similarity
 
-</div>  
+### 📊 Data Science
+Statistical Analysis · Hypothesis Testing  
+Predictive Modeling
+
+### 📦 Libraries
+`NumPy` · `Pandas` · `Scikit-learn` · `OpenCV`
+
+### 🚀 Deployment
+ML Models as REST APIs  
+Basic exposure to `AWS` & `Firebase`
 
 ---
 
-## 🌟 Featured Projects  
-Here are some projects I’ve been working on:  
+## 🧠 Flagship Builds
 
-- 🔗 **[Threadeo 2.0]()**: A Threads clone with real-time chat and AI capabilities.  
-- 📚 **[AI LearnLabs](https://github.com/Purna375/AI-LearnLabs)**: Simplifying education by generating personalized AI-driven courses.  
-- 🤖 **[Bujji 2.0](https://github.com/Purna375/Bujjii)**: Your virtual assistant powered by AI intelligence.
-- 🍽️ **[Sentimnt Analysis](https://github.com/Purna375/Sentiment-Analysis)**: Analyzing restaurant reviews to understand customer sentiment and improve experiences.
-- 🌏 **[Solar Planet View](https://github.com/Purna375/Solar-Planet-view)**: A Visual Representation of the Solar System: Planets Orbiting with Connecting Lines.
+### 🔷 **AI-LearnLabs**
+**AI-Powered Learning Management System**
 
-💡 Check out my repositories for more exciting projects!  
+- Full-stack LMS using **Next.js, TypeScript, Node.js**
+- Auth, RBAC, REST APIs, PostgreSQL
+- Complex dashboards with reusable UI systems
+- AI-driven content generation
 
----
-
-## 📊 GitHub Stats  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Purna375&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Purna375&theme=radical" alt="GitHub Streak" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purna375&layout=compact&theme=radical" alt="Top Languages" />  
-</div>  
+🔗 https://github.com/Purna375/AI-LearnLabs
 
 ---
 
-## 🏆 Goals for 2024  
-- 🚀 Build and launch **impactful SaaS applications**.  
-- 🎓 Master advanced **machine learning algorithms** and **AI systems**.  
-- 🤝 Contribute to **open-source projects** that make a difference.  
-- 🎥 Take a step closer to my dream of being an **anime director**.  
+### 🔷 **Hisame AI**
+**AI Application Generation Platform (SaaS)**
+
+- React + Next.js + TypeScript
+- Live editors, dashboards, async workflows
+- AI API integrations with backend orchestration
+- Designed as a production SaaS, not a demo
+
+⭐ Highlight Project
 
 ---
 
-## 🤝 Let’s Connect!  
-<div align="center">  
+### 🔷 **Threadeo 2.0**
+**Full Stack Social Platform**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purna-chandra-shekar-giduthuri-0083a3278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+- Threads-like app with Next.js, Node.js, MongoDB
+- Auth, communities, nested comments, notifications
+- Real-time events and performance optimization
 
-</div>  
+🔗 https://github.com/Purna375/Threadeo2.O
 
 ---
 
-<div align="center">  
-  <b>✨ Thanks for visiting my profile! Feel free to reach out for collaborations or just a friendly chat! 😊</b>  
+## 🧪 Applied ML Projects
 
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Purna375.Purna375)  
+- **Disease Prediction** — Supervised ML techniques  
+  🔗 https://github.com/Purna375/Disease-Prediction
+
+- **Fake News Detection** — NLP using TF-IDF + Logistic Regression  
+  🔗 https://github.com/Purna375/Fake_News_Detection
+
+- **Heart Disease Prediction** — Random Forests on medical datasets  
+  🔗 https://github.com/Purna375/Heart-Disease
+
+- **Virtual Piano** — Hand gesture recognition with OpenCV + Python
+
+---
+
+## 📈 GitHub Signal
+
+- **25+ public repositories**
+- Flagship SaaS-grade projects
+- Freelance project contributions
+- Consistent full-stack + AI work
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **Top-5** — Generative AI Hackathon
+- 🧑‍💻 **2 Years** Freelance Full Stack Experience
+- 🎓 **50+ Certifications**, including:
+  - Google UI/UX Professional
+  - Responsive Web Design — freeCodeCamp
+  - Programming with JavaScript — Meta
+  - React Basics — Meta
+  - Postman API Student Expert
+  - Version Control with Git
+
+---
+
+## 🌌 Philosophy
+
+> “Good software works.  
+> Great software understands.”
+
+I build with **clarity**, **intent**, and **systems thinking**.
+
+---
+
+## 📡 Contact Channel
+
+- 📧 Email: **gurnachandrashekar@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/purnachandrashekar/
+- 🌐 Portfolio: https://purna-dev-portfolio.vercel.app
+
+---
+
+<div align="center">
+
+### 🛰️ Signal detected. System online.
+
 </div>
